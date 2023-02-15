@@ -1,3 +1,3 @@
 # demo
 
-full name - 
+full name - *
